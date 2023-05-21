@@ -15,3 +15,11 @@
 2. 这个看板用于监控公司信贷运营的业绩，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842470352190/sheet0
 3. 这个表格记录每月线上运营业绩的明细，作为1的补充，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842459273050/1_-
 4. 这个表格记录微信公众号关注推送的转化，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842454495270/-70min
+
+# Google数据分析师职业认证证书
+ https://www.credly.com/go/jtrHtjGy
+ 
+# Coursera
+1. 深度学习专项课程证书：https://www.coursera.org/account/accomplishments/specialization/certificate/NRKM2SX2XGTF
+2. 线性代数课程证书：https://www.coursera.org/account/accomplishments/certificate/ET9PPQ5XA7MA
+3. 微积分课程证书：https://www.coursera.org/account/accomplishments/certificate/EXZTYLVJAVRQ
