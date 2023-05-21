@@ -9,3 +9,9 @@
 1. 这个项目目的是预测在一次太空飞船的事故中，哪些乘客遇难，最近一次提交的排名约为3%（79/2061）：https://www.kaggle.com/code/sciamano/space-ship-titantic-save-jack-and-rose-this-time
 2. 这个项目目的是预测商品的销量，最近一次提交的排名约为2.5%: https://www.kaggle.com/code/sciamano/predict-future-sales-top-2-5
 3. 这是Google数据分析师认证的毕业项目，目的是为Bellabeat的产品提出商业建议：https://www.kaggle.com/code/sciamano/google-capstone-project-bellabeat-case-study
+
+# Tableau
+1. 这个看板用于监控公司金融产品线上运营的业绩，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842467125130/-
+2. 这个看板用于监控公司信贷运营的业绩，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842470352190/sheet0
+3. 这个表格记录每月线上运营业绩的明细，作为1的补充，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842459273050/1_-
+4. 这个表格记录微信公众号关注推送的转化，为保护公司利益，__数据为伪造__：https://public.tableau.com/app/profile/weipeng.hu/viz/_16842454495270/-70min
